@@ -7,7 +7,7 @@ El theremín es un instrumento musical inventado en 1919 por el ruso Lev Termen 
 https://es.wikipedia.org/wiki/Therem%C3%ADn
 
 
-El esquema original de partida será la adpatación realizada por *Barry Holloway* del modelo original de RCA de 1929
+El esquema original de partida será la adaptación realizada por *Barry Holloway* del modelo original de RCA de 1929.
 
 http://www.strangeapparatus.com/Theremin.html
 
